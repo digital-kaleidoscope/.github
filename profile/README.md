@@ -5,7 +5,7 @@ We are a group of researchers at Imperial College London who seek to understand 
 👥 Current members:
 - [Nick Ballou](nickballou.com)
 - Josie Brooks
-- Ahuti Das Friebel
+- Ahuti Das-Friebel
 
 <!--
 
